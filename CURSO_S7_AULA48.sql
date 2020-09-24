@@ -1,0 +1,41 @@
+--curso  https://www.udemy.com/course/oracle-developer-sql-e-plsql/
+-- INTRODUCAO PL/SQL
+
+--ESTRUTURA  DO BLOCO SQL
+--
+--
+--  DECLARE -OPCIONAL
+--  **VARIAVEIS, CURSORES, EXCE합ES DEFINIDAS PELO USUARIO
+--  BEGIN - OBRIGATORIO
+--    INSTRU합ES SQL
+--    INSTRU합ES PL/SQL
+--  **A합ES A SEREM DESEMPENHADAS QUANDO OCORREM ERROS
+--  END;-OBRIGATORIO
+
+
+
+-- EXISTEM 3 TIPOS DE BLOCOS 
+--  1 -ANONIMO (BEGIN
+--                  -STATMENTS
+--                  [EXCEPTION]
+--              END;)
+--
+--
+--  2 - PROCEDIMENTOS
+--          PROCEDURE name
+--              IS
+--          BEGIN
+--             -STATMENTS
+--             [EXCEPTION]
+--          END;
+--
+--
+--  3  - FUN플O
+--          FUNCTION name
+--              RETURN datatype
+--              IS
+--              BEGIN
+--                  -STATMENTS
+--                  RETURN value;
+--                  [EXCEPTION]
+--              END;
