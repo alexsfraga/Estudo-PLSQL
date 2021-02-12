@@ -12,6 +12,6 @@ Configuração do ambiente:
 
 SQLDeveloper e VirtualBox instalados no windows fazendo acesso ao sistema de banco de dados alocado na Maquina Virtual Oracle DB Developer.
 
-Este repositorio é um Mix de material de estudo. 
-Tendo como sua principal e inicial fonte de material de estudo...
+Este repositorio é um Mix de material de estudo.
+Material produzido tendo como fonte de conhecimento,
 o curso da plataforma Udemy ministrado pelo professor André Rosa
